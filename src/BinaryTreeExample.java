@@ -37,6 +37,8 @@ public class BinaryTreeExample {
 		root.setLeft(fTree);
 		root.setRight(rTree);
 
+		// TO-DO Complete the tree shown in the lab description
+
 		// uncomment these operations as you implement each method
 
 		//tree.printLevels();
